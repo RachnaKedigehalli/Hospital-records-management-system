@@ -23,3 +23,4 @@ USING THE PROGRAM:
 5. Blood group should strictly NOT have any spaces.
 6. The status of the patient should strictly be 0, 1 or 2.
 7. In the search function, to search on the basis of a field, the index of that field should be entered. Input should NOT be a string.
+8. Any invalid input will cause the program to malfunction or even terminate.
